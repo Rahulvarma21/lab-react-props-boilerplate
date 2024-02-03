@@ -1,0 +1,12 @@
+img{
+    width: 100%;
+}
+.imageStyle{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
